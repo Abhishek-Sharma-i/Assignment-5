@@ -6,7 +6,7 @@ DEST_DB = "Information_Lite"
 DB_CONFIG = {
     "host": "localhost",
     "user": "Abhishek Sharma",
-    "password": "Abhi5653"
+    "password": "*****"
 }
 
 SELECTIVE_TABLES = {
