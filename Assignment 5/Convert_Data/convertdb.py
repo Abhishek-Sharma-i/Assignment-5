@@ -7,7 +7,7 @@ import os
 host = "localhost"
 port = 3306
 user = "Abhishek Sharma"
-password = "Abhi5653"
+password = "*****"
 database = "Information"
 table = "People"
 
