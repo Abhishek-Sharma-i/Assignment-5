@@ -6,7 +6,7 @@ DEST_DB = "Information_Copy"
 DB_CONFIG = {
     "host": "localhost",
     "user": "Abhishek Sharma",
-    "password": "Abhi5653",
+    "password": "*****",
 }
 
 def connect():
